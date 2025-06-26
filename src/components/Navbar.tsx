@@ -44,7 +44,7 @@ const Navbar: React.FC = () => {
             <span className={`font-heading font-bold text-xl ${
               isScrolled ? 'text-white' : 'text-primary-500'
             } transition-colors`}>
-              Desarrollador de videojuegos
+             <h1>Fran Romero – Desarrollador de Videojuegos</h1>
             </span>
           </Link>
 

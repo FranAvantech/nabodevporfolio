@@ -60,9 +60,7 @@ const AboutMe: React.FC = () => {
               Sobre Mí
             </h2>
             <div className="w-20 h-1 bg-primary-500 mx-auto mb-8 rounded-full"></div>
-            <p className="text-lg text-neutral-700 leading-relaxed mb-6">
-              Francisco Romero Murillo (Nabodev)
-            </p>
+            <h1>Fran Romero – Desarrollador de Videojuegos</h1>
             <p className="text-lg text-neutral-700 leading-relaxed">
               Soy un desarrollador indie de videojuegos de Nayarit, México 🇲🇽. Me encanta programar, diseñar juegos, hacer música y darle vida a mis ideas con arte pixel.
 
